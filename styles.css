@@ -1,0 +1,55 @@
+
+/* Adding curved edge to image border */
+img {
+    border-radius: 25%;
+}
+
+/* Adding top padding to row class */
+.row {
+   
+    padding-top: 30px;   
+    
+}
+
+/* Changing the font syle for the big heading h1 for theDev ID under image*/
+#theDev h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;        
+    font-stretch: extra-condensed;
+    font-size: 65px;
+}
+
+/* Adding more space to main content body with padding */
+#main {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+/* Changing font syle for ID main h2*/
+#main h2 {
+    color: steelblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Changing colour for h3 tags */
+h3 {
+    color: grey;
+}
+
+/* Changing font size for all h4 elements */
+h4 {
+    font-size: 15px;
+}
+
+/* Styling the footer class */
+.footer {
+    background-color: rgb(66, 66, 66);
+    color: white;
+    margin-top: 50px;
+}
+
+/* Changing the colour of h3 element in footer class*/
+.footer h3 {
+    color: steelblue;
+}
